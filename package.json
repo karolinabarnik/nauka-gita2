@@ -1,0 +1,27 @@
+{
+  "name": "nauka-gita2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolinabarnik/nauka-gita2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolinabarnik/nauka-gita2/issues"
+  },
+  "homepage": "https://github.com/karolinabarnik/nauka-gita2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^4.4.0"
+  }
+}
